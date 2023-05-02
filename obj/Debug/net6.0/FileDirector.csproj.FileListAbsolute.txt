@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\FileDirector\bin\Debug\net6.0\FileDirector.exe
+C:\Users\LENOVO\Desktop\FileDirector\bin\Debug\net6.0\FileDirector.deps.json
+C:\Users\LENOVO\Desktop\FileDirector\bin\Debug\net6.0\FileDirector.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FileDirector\bin\Debug\net6.0\FileDirector.dll
+C:\Users\LENOVO\Desktop\FileDirector\bin\Debug\net6.0\FileDirector.pdb
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.dll
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\refint\FileDirector.dll
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.pdb
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\ref\FileDirector.dll
+C:\Users\LENOVO\Desktop\FileDirector\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\FileDirector\obj\Debug\net6.0\FileDirector.csproj.CopyComplete

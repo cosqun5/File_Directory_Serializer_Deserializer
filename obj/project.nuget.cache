@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4jlOQ4eLJXJYTyvMbP7ZQ4bVOUzywS/LYCQGWCbXzKA/yq7bXfRnQWA37EHRSD6WYwlGDpxMIZe86/pUakMKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\FileDirector\\FileDirector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
